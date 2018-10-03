@@ -1,0 +1,41 @@
+
+EXERCICI 1:
+
+	Hem de minimitzar el nombre d'operacions.
+ 
+ 
+	H = 1 1 1				1
+		1 1 1     	-> 	H = 1 X [1 1 1]		
+		1 1 1				1
+		
+		
+	NO UTILITZAR UNA MATRIU MOLT GRAN SINO 2 PETITES.
+	
+	
+	
+EXERCICI 2:
+
+	Utilitzar el arrayfunction per tal de que si es blanc mirem els veins i si es negre tambe, sino el deixem igual (posar un if a la myfunction)
+	
+	
+EXERCICI 3:
+
+	Amb una imatge I sumarem algo que sumi els contorns. per tal de que els contorns es vegin mes.
+	
+	J = I + C;
+	
+	
+EXERCICI 4:
+
+	imrotate per tal de tractar la imatge del filtre com una imatge mes.
+	
+	Per moure-la:
+	
+		H = 0 0 0 0
+			0 1 1 1
+			0 0 0 0
+			
+			
+EXERCICI 5:
+
+	Buscar per internet una funcio que millori la imatge.
