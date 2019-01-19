@@ -13,20 +13,13 @@ L’objectiu de la sessió és el de familiaritzar-se amb les funcions bàsiques
 
 ## Exercicis de la sessió
 
-Una vegada realitzada la sessió de laboratori caldrà dur a terme els següents exercicis i **entregar-los al racó en un informe en format pdf**abans de la següent sessió.
+Una vegada realitzada la sessió de laboratori caldrà dur a terme els següents exercicis i **entregar-los al racó en un informe en format pdf** abans de la següent sessió.
 
 1. Trobeu unes expressions en llenguatge Matlab que al multiplicar dos vectors s’obtindrien les següents matrius:
 
-	1. 
-		1	2	3	4	5
-		1	2	3	4	5
-		1	2	3	4	5
+	1. ![](../statement_pictures/sessio1-1a.PNG)
 
-	2. 
-		-1	-1	-1
-		0	0	0
-		1	1	1
-		2	2	2
+	2. ![](../statement_pictures/sessio1-1b.PNG)
 
 2. Realitzar un plot amb l’aspecte de la figura següent. La dimensió dels vectors que contenen els valors de l’eix horitzontal i vertical (x,y) hauran de ser de 30 elements.
 
