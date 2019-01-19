@@ -30,15 +30,15 @@ Una vegada realitzada la sessió de laboratori caldrà dur a terme els següents
 
 2. Realitzar un plot amb l’aspecte de la figura següent. La dimensió dels vectors que contenen els valors de l’eix horitzontal i vertical (x,y) hauran de ser de 30 elements.
 
-![](../statement_pictures/sessio1-2.PNG)
+![](../statement_pictures/sessio1-2.PNG =100x20)
 
 3. Realitzar un plot amb l’aspecte de la figura següent.
 
-![](../statement_pictures/sessio1-3.PNG)
+![](../statement_pictures/sessio1-3.PNG=100x20)
 
 4. Realitzar un plot amb l’aspecte de la figura següent sense redefinir les funcions matemàtiques utilitzades en l’exercici anterior. Només es podran utilitzar comandes de creació i concatenació de matrius.
 
-![](../statement_pictures/sessio1-4.PNG)
+![](../statement_pictures/sessio1-4.PNG=100x20)
 
 5. Cercar el mínim aproximat de la següent funció.
 
