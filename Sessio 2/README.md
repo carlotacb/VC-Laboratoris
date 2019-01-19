@@ -25,4 +25,4 @@ Per processar les imatges, s’utilitzaran les funcions específiques de la Imag
 
 La imatge utilitzada durant aquesta practica ha estat la imatge _What_is_it.tif_ que es troba a la carpeta data de la sessió:
 
-![](What_is_it.tif)
+![](../data/What_is_it.tif)
