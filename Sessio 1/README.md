@@ -17,7 +17,7 @@ L’objectiu de la sessió és el de familiaritzar-se amb les funcions bàsiques
 
 Una vegada realitzada la sessió de laboratori caldrà dur a terme els següents exercicis i **entregar-los al racó en un informe en format pdf** abans de la següent sessió.
 
-Podeu trobar l'execució de tots els exercicis al fitxer _main.mlx_ (fitxer LiveScript de MatLab)
+**Podeu trobar l'execució de tots els exercicis al fitxer _main.mlx_ (fitxer LiveScript de MatLab)**
 
 1. Trobeu unes expressions en llenguatge Matlab que al multiplicar dos vectors s’obtindrien les següents matrius:
 

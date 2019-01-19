@@ -23,4 +23,4 @@ En la sessió de laboratori caldrà dur a terme els següents exercicis i entreg
 
 4. Implementar una funció que esborroni (motion blur) una imatge en una direcció (un angle passat per paràmetre). El codi d’aquesta funció ha de ser un codi propi.
 
-La imatge utilitzada durant aquesta practica ha estat la imatge _airplane.tif_ que es troba a la carpeta data de la sessió.
+**La imatge utilitzada durant aquesta practica ha estat la imatge _airplane.tif_ que es troba a la carpeta data de la sessió.**

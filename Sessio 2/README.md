@@ -17,7 +17,7 @@ Per processar les imatges, s’utilitzaran les funcions específiques de la Imag
 
 ## Exercicis de la sessió
 
-Podeu trobar l'execució de tots els exercicis al fitxer _main.mlx_ (fitxer LiveScript de MatLab)
+**Podeu trobar l'execució de tots els exercicis al fitxer _main.mlx_ (fitxer LiveScript de MatLab)**
 
 1. Donada una imatge I, marcar, amb un cercle en la mateixa imatge, la posició del píxel amb més contrast en relació al seu vei de l’esquerra. En cas de més d’un valor màxim no importa quin dels píxels amb major contrast és el sel·lecionat.
 
@@ -25,4 +25,4 @@ Podeu trobar l'execució de tots els exercicis al fitxer _main.mlx_ (fitxer Live
 
 3. Calcular el soroll introduït en una imatge al aplicar-li un procés que consisteix en la reducció de les seves mides en 3/7 parts i una posterior ampliació per restablir les seves mides. Per calcular el soroll introduït en el procés de reducció i ampliació cal comparar el resultat amb la imatge original calculant el rati SNR = 10 log10(Ps/PN), on PN és el valor promig dels nivells de gris de la Imatge original i Ps és la desviació estàndard de la diferència de nivells de gris entre la imatge original i la imatge processada.
 
-La imatge utilitzada durant aquesta practica ha estat la imatge _What_is_it.tif_ que es troba a la carpeta data de la sessió.
+**La imatge utilitzada durant aquesta practica ha estat la imatge _What_is_it.tif_ que es troba a la carpeta data de la sessió.**
