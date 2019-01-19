@@ -7,7 +7,7 @@
 L’objectiu de la sessió és el comprendre les avantatges i les limitacions de les diferents tècniques de binarització d’imatges. En concret es treballaran els següents mètodes: 
 * Binarització per llindar simple, per àrea i percentual. 
 * Binarització pel mètode d’Otsu.
-* Binaritzacio global vs local
+* Binaritzacio global vs local.
 
 ## Exercicis de la sessió
 
