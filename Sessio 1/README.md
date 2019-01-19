@@ -22,22 +22,22 @@ Podeu trobar l'execució de tots els exercicis al fitxer _main.mlx_ (fitxer Live
 1. Trobeu unes expressions en llenguatge Matlab que al multiplicar dos vectors s’obtindrien les següents matrius:
 
 	1. 
-	![](../data/statement/sessio1-1a.PNG)
+	![](data/statement/sessio1-1a.PNG)
 
 	2. 
-	![](../data/statement/sessio1-1b.PNG)
+	![](data/statement/sessio1-1b.PNG)
 
 2. Realitzar un plot amb l’aspecte de la figura següent. La dimensió dels vectors que contenen els valors de l’eix horitzontal i vertical (x,y) hauran de ser de 30 elements.
 
-![](../data/statement/sessio1-2.PNG)
+![](data/statement/sessio1-2.PNG)
 
 3. Realitzar un plot amb l’aspecte de la figura següent.
 
-![](../data/statement/sessio1-3.PNG)
+![](data/statement/sessio1-3.PNG)
 
 4. Realitzar un plot amb l’aspecte de la figura següent sense redefinir les funcions matemàtiques utilitzades en l’exercici anterior. Només es podran utilitzar comandes de creació i concatenació de matrius.
 
-![](../data/statement/sessio1-4.PNG)
+![](data/statement/sessio1-4.PNG)
 
 5. Cercar el mínim aproximat de la següent funció.
 
