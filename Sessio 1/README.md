@@ -17,9 +17,11 @@ Una vegada realitzada la sessió de laboratori caldrà dur a terme els següents
 
 1. Trobeu unes expressions en llenguatge Matlab que al multiplicar dos vectors s’obtindrien les següents matrius:
 
-	1. ![](../statement_pictures/sessio1-1a.PNG)
+	1. 
+	![](../statement_pictures/sessio1-1a.PNG)
 
-	2. ![](../statement_pictures/sessio1-1b.PNG)
+	2. 
+	![](../statement_pictures/sessio1-1b.PNG)
 
 2. Realitzar un plot amb l’aspecte de la figura següent. La dimensió dels vectors que contenen els valors de l’eix horitzontal i vertical (x,y) hauran de ser de 30 elements.
 
