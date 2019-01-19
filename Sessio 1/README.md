@@ -1,5 +1,7 @@
 # Sessió 1 de Laboratori
 
+### Nota: 9.0
+
 ## Continguts de la sessió
 
 L’objectiu de la sessió és el de familiaritzar-se amb les funcions bàsiques de Matlab. En concret es treballaran els següents aspectes:
