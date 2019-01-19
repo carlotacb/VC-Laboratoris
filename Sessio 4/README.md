@@ -21,4 +21,4 @@ En la sessió de laboratori caldrà dur a terme els següents exercicis i entreg
 
 3. Utilitzant la funció colfilt o similar, implementar una binarització local amb una finestra lliscant [M N] que binaritzi a blanc els píxels que són K nivells de gris superiors que el promig local. Proveu quins resultats produeix amb finestres [N x N] de diverses mides i finestres de [N x 1] aplicat a la binarització de text.
 
-**La imatge utilitzada durant aquesta practica ha estat les imatges _calc.tif_, _Blispac1.tif_ i _Enters manuscrits 1.jpg_ que es troben a la carpeta data de la sessió.**
+**Les imatges utilitzades durant aquesta practica ha estat les imatges _calc.tif_, _Blispac1.tif_ i _Enters manuscrits 1.jpg_ que es troben a la carpeta data de la sessió.**

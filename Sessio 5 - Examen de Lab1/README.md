@@ -1,4 +1,4 @@
-# Sessió 4 de Laboratori
+# Sessió 5 de Laboratori (Examen 1)
 
 ### Nota: 9.5
 
