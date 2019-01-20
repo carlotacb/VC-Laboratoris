@@ -1,4 +1,4 @@
-# Sessió 8 (Examen 2)
+# Sessió 8 de Laboratori (Examen 2)
 ### Nota: 8.5
 
 ## Enunciat de la sessió
