@@ -10,7 +10,7 @@ Per aquesta practica s'ens demana que a partir de la imatge:
 
 arribar a la imatge:
 
-![](data/cellsegmentationcompetitionresult.png)
+![](data/cellsegmentationcompetitionresults.png)
 
 mitjançant morfologisme i binarització, per tal d'arribar a poder utilitzar els millors métodes, tenim l'explicació de com utilitzar-los al fitxer _Explicacions.mlx_ (fitxer LiveScript de MatLab). 
 
