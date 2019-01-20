@@ -30,7 +30,7 @@ Les pràctiques que es troben en aquest repositori són totes les realitzades al
 
 #### Short project de l'assignatura:
 
-* [Short Project](https://github.com/carlotacb/ShortProjectVC) - Nota: 
+* [Short Project](https://github.com/carlotacb/ShortProjectVC)
 
 ## Autors:
 
