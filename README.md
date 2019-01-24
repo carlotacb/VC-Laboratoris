@@ -30,7 +30,7 @@ Les pràctiques que es troben en aquest repositori són totes les realitzades al
 
 #### Short project de l'assignatura:
 
-* [Short Project](https://github.com/carlotacb/ShortProjectVC) - Nota: 7.5
+* [Short Project - __Gaze Recognition__](https://github.com/carlotacb/ShortProjectVC) - Nota: 7.5
 
 ## Autors:
 
